@@ -1,0 +1,24 @@
+{
+  "restaurant": {
+    "name": "Yumilicious",
+    "whatsapp": "923160490499",
+    "address": "Main Market, X Block, Peoples Colony, Gujranwala",
+    "banner_url": "banner.jpg"
+  },
+  "categories": [
+    {
+      "name": "Old School Pizzas",
+      "items": [
+        {"id": 1, "name": "Chicken Tikka Pizza", "price": 550, "desc": "Smoky chicken tikka, melty cheese.", "image": "tikka.jpg"},
+        {"id": 2, "name": "Creamy Melt Pizza", "price": 550, "desc": "Rich, cheesy pizza with creamy flavor.", "image": "creamy.jpg"}
+      ]
+    },
+    {
+      "name": "Burgers",
+      "items": [
+        {"id": 3, "name": "Zingster Burger", "price": 440, "desc": "Golden crispy chicken fillet.", "image": "zingster.jpg"},
+        {"id": 4, "name": "Mighty Zingster", "price": 680, "desc": "Double crunchy fillets with cheese.", "image": "mighty.jpg"}
+      ]
+    }
+  ]
+}
